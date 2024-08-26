@@ -8,7 +8,7 @@
 > Cyberthai Easycore PHP Simple linebot manager
 
 # การติดตั้ง
-> composer create-project deawx/linebot
+> composer require deawx/linebot
 
 # API documentation
 
