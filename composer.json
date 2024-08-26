@@ -1,0 +1,34 @@
+{
+    "name": "deawx/linebot",
+    "description": "Cyberthai EasycorePHP - Simple linebot manager",
+    "keywords": [
+        "cyberthai",
+        "projects",
+        "deawx",
+        "msdos43",
+        "89P13"
+    ],
+    "type": "project",
+    "license": "MIT",
+    "version": "1.0.1",
+    "autoload": {
+        "psr-4": {
+            "cyberthai\\Linebot\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.0",
+        "ext-curl": "*",
+        "ext-openssl": "*",
+        "guzzlehttp/guzzle": "^7.9"
+    },
+    "authors": [
+        {
+            "name": "Tirapong Chaiyakun",
+            "email": "msdos43@gmail.com",
+            "homepage": "https://www.cyberthai.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
