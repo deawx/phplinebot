@@ -7,6 +7,9 @@
 
 > Cyberthai Easycore PHP Simple linebot manager
 
+# การติดตั้ง
+> composer create-project deawx/linebot
+
 # API documentation
 
 > https://developers.line.biz/en/reference/messaging-api/
@@ -18,7 +21,7 @@
 - **Webhook** - จัดการ Webhook.
 - **Richmenu** - จัดการ Richmenu.
 
-- ## Requirement
+## Requirement
 
 - **PHP 8.0+** และติดตั้ง Composer ด้วยหละ.
 - ext-curl
