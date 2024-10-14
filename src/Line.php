@@ -52,7 +52,7 @@ class Line {
         ];
 
         return $this->provider->request(
-            'users',
+            'bot',
             'info',
             'GET',
             $header,
