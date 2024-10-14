@@ -7,8 +7,7 @@
         "deawx",
         "msdos43",
         "89P13"
-    ],
-    "type": "project",
+    ], 
     "license": "MIT",
     "version": "1.0.1",
     "autoload": {
