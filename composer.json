@@ -7,9 +7,9 @@
         "deawx",
         "msdos43",
         "89P13"
-    ], 
+    ],
     "license": "MIT",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "autoload": {
         "psr-4": {
             "cyberthai\\Linebot\\": "src/"
