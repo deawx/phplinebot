@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://medoo.in" target="_blank"><img src="https://cyberthai.net/smalllogo.png"></a><br>
+    <a href="https://cyberthai.net" target="_blank"><img src="https://cyberthai.net/smalllogo.png"></a><br>
 # Cyberthaicore for cyberthai project to accelerate development
 </div>
 
