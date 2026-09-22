@@ -1,0 +1,36 @@
+{
+    "name": "deawx/linebot",
+    "description": "PHP wrapper for the LINE Messaging API (Guzzle)",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/deawx/phplinebot",
+    "keywords": [
+        "line",
+        "linebot",
+        "messaging-api",
+        "cyberthai"
+    ],
+    "authors": [
+        {
+            "name": "Tirapong Chaiyakun",
+            "email": "msdos43@gmail.com",
+            "homepage": "https://www.cyberthai.net"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/deawx/phplinebot/issues",
+        "source": "https://github.com/deawx/phplinebot"
+    },
+    "require": {
+        "php": "^8.0",
+        "guzzlehttp/guzzle": "^7.0 || ^8.0"
+    },
+    "suggest": {
+        "vlucas/phpdotenv": "ใช้ในแอปของคุณเองถ้าต้องการโหลดค่าจากไฟล์ .env"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cyberthai\\Linebot\\": "src/"
+        }
+    }
+}

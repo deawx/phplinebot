@@ -1,0 +1,6 @@
+# ไฟล์เหล่านี้ยังอยู่บน GitHub แต่ไม่ติดตอน Composer ติดตั้งแพ็กเกจ
+/examples export-ignore
+/README.md export-ignore
+/cyberthai.png export-ignore
+/.gitattributes export-ignore
+/.gitignore export-ignore
